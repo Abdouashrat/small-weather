@@ -15,8 +15,8 @@
 To run this Flutter app, ensure you have Flutter installed. Then, clone the repository and run the following commands:
 
 ```bash
-git clone https://github.com/Abdouashrat/Small weather.git
-cd Small weather
+git clone https://github.com/Abdouashrat/Small-weather.git
+cd Small-weather
 flutter pub get
 flutter run
 ```
