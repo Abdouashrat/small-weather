@@ -10,7 +10,7 @@ import 'package:geocoding/geocoding.dart';
 import 'package:small_weather/new.dart';
 import 'package:loading_indicator/loading_indicator.dart';
 
-//29.974901, 31.159794
+
 void main() {
   runApp(const MainApp());
 }
